@@ -3,5 +3,5 @@
 int main(){
     printf("Hello world\n");
     printf("Print it\n");
-    printf("Jani na ki print hobe?");
+    printf("Ami joss to");
 }
