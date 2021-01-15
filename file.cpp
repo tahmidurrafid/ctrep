@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 int main(){
-    printf("Hello world\n");
-    printf("Print it\n");
-    printf("Ami joss to");
+    printf("Hello this is rhythm typign");
+    
 }
